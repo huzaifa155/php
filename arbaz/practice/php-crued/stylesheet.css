@@ -1,0 +1,43 @@
+/* nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+nav ul li {
+    display: inline;
+    padding: 20px;
+}
+button {
+    background-color: red;
+    border-radius: 15px;
+    border: 2px solid transparent;
+    color: white;
+    padding: 0px 30px;
+
+}
+header {
+    display: flex;
+    justify-content: space-between;
+    background: red;
+} */
+.footer {
+    display: flex;
+    background: black;
+    color: white;
+    justify-content: space-between;
+    padding-left: 170px;
+    padding-right: 170px;
+    height: 250px;
+}
+.box {
+    margin: 30px;
+
+}
+
+
+
+
+
+
+
+

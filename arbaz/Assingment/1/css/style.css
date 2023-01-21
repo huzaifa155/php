@@ -1,0 +1,36 @@
+header{
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    background-color: #D49B17;
+    text-align: center;
+}
+header h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 700;
+    padding: 30px;
+}
+.pizza{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    min-height: 100vh;
+}
+.pizza .pizza-content{
+    display: flex;
+}
+.pizza .list_items li{
+    list-style: none;
+}
+footer{
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #D49B17;
+    text-align: center;
+    padding: 20px;
+    font-size: 1.2em;
+}
